@@ -1,0 +1,301 @@
+Customer ID,Customer Name,Age Group,Gender,Region,Product Category,Sales Amount,Profit,Purchase Date,Payment Mode,Loyalty Program,Shipping Type,Discount,Order Status,Customer Rating,Customer Feedback
+CUST0001,Customer 1,60+,Male,Central,Toys,281.58,29.39,2024-01-19,UPI,Yes,Standard,7.08,Returned,2.4,Excellent
+CUST0002,Customer 2,46-60,Female,West,Clothing,146.34,43.13,2024-04-05,UPI,Yes,Express,31.97,Returned,3.9,Poor
+CUST0003,Customer 3,36-45,Other,South,Home & Kitchen,189.1,19.38,2024-09-13,Net Banking,Yes,Express,37.71,Cancelled,3.3,Excellent
+CUST0004,Customer 4,26-35,Male,North,Clothing,57.37,11.72,2024-03-01,Credit Card,Yes,Express,47.37,Pending,2.7,Very Poor
+CUST0005,Customer 5,36-45,Female,West,Electronics,58.27,13.69,2024-10-28,Cash,No,Standard,46.74,Returned,1.0,Poor
+CUST0006,Customer 6,60+,Male,East,Toys,290.67,46.56,2024-07-06,Cash,Yes,Express,7.6,Pending,4.7,Very Poor
+CUST0007,Customer 7,60+,Other,East,Electronics,382.12,63.47,2024-03-01,UPI,Yes,Same Day,8.47,Completed,1.0,Very Poor
+CUST0008,Customer 8,26-35,Other,South,Books,414.19,110.7,2024-07-05,UPI,Yes,Express,47.91,Returned,1.0,Average
+CUST0009,Customer 9,26-35,Male,Central,Toys,289.62,48.68,2024-01-23,Debit Card,Yes,Standard,26.16,Completed,1.3,Poor
+CUST0010,Customer 10,18-25,Male,West,Toys,232.02,56.23,2024-04-21,Cash,No,Express,13.33,Cancelled,4.7,Very Poor
+CUST0011,Customer 11,36-45,Other,Central,Electronics,467.46,113.61,2024-01-26,Cash,No,Same Day,38.01,Completed,1.9,Excellent
+CUST0012,Customer 12,46-60,Male,West,Clothing,441.28,60.09,2024-12-05,Debit Card,Yes,Standard,36.97,Cancelled,2.6,Very Poor
+CUST0013,Customer 13,36-45,Female,West,Home & Kitchen,87.56,25.92,2024-05-11,Debit Card,Yes,Express,30.73,Completed,1.2,Average
+CUST0014,Customer 14,18-25,Female,East,Clothing,167.88,36.58,2024-03-24,Cash,Yes,Same Day,9.68,Completed,3.8,Excellent
+CUST0015,Customer 15,36-45,Other,South,Clothing,377.1,41.04,2024-08-10,UPI,No,Same Day,34.19,Pending,3.9,Average
+CUST0016,Customer 16,46-60,Other,Central,Clothing,324.63,70.15,2024-07-26,Cash,Yes,Express,25.97,Cancelled,4.5,Very Poor
+CUST0017,Customer 17,60+,Male,East,Books,138.03,21.5,2024-01-19,Net Banking,No,Standard,32.61,Cancelled,3.3,Good
+CUST0018,Customer 18,60+,Male,West,Home & Kitchen,108.69,28.28,2024-07-09,Debit Card,Yes,Same Day,49.14,Returned,1.9,Good
+CUST0019,Customer 19,26-35,Female,Central,Home & Kitchen,162.57,18.48,2024-01-20,Cash,No,Standard,30.39,Completed,1.1,Average
+CUST0020,Customer 20,60+,Other,West,Home & Kitchen,230.73,30.91,2024-10-28,Net Banking,No,Standard,40.26,Returned,3.6,Good
+CUST0021,Customer 21,26-35,Male,South,Home & Kitchen,452.88,55.22,2024-09-13,Credit Card,No,Express,21.93,Returned,3.5,Excellent
+CUST0022,Customer 22,36-45,Other,South,Clothing,490.04,90.4,2024-03-11,Credit Card,No,Same Day,22.83,Pending,2.8,Very Poor
+CUST0023,Customer 23,60+,Male,South,Toys,427.78,70.26,2024-01-05,Debit Card,Yes,Same Day,23.93,Completed,1.2,Excellent
+CUST0024,Customer 24,60+,Male,East,Home & Kitchen,411.74,72.19,2024-04-12,Net Banking,Yes,Same Day,23.56,Pending,2.2,Good
+CUST0025,Customer 25,36-45,Other,West,Home & Kitchen,408.71,86.02,2024-08-17,Cash,No,Express,12.02,Returned,3.5,Average
+CUST0026,Customer 26,18-25,Male,East,Toys,63.99,15.27,2024-08-10,Credit Card,No,Same Day,41.26,Completed,1.4,Very Poor
+CUST0027,Customer 27,18-25,Other,East,Electronics,102.4,28.49,2024-09-25,UPI,Yes,Express,27.74,Completed,1.2,Poor
+CUST0028,Customer 28,46-60,Other,Central,Home & Kitchen,114.65,23.19,2024-03-28,Net Banking,No,Express,13.19,Returned,2.3,Average
+CUST0029,Customer 29,46-60,Male,North,Toys,74.27,10.68,2024-01-19,Credit Card,Yes,Express,9.45,Returned,2.3,Poor
+CUST0030,Customer 30,46-60,Other,Central,Books,378.81,85.23,2024-08-15,Credit Card,Yes,Express,18.8,Pending,3.8,Excellent
+CUST0031,Customer 31,18-25,Male,South,Books,337.52,72.45,2024-03-16,Debit Card,No,Express,45.83,Returned,2.9,Average
+CUST0032,Customer 32,36-45,Female,West,Toys,219.01,35.47,2024-07-17,Cash,Yes,Same Day,11.86,Returned,2.7,Very Poor
+CUST0033,Customer 33,46-60,Male,West,Books,136.26,32.74,2024-11-21,Debit Card,Yes,Same Day,16.42,Completed,1.6,Good
+CUST0034,Customer 34,60+,Other,North,Clothing,486.13,138.47,2024-08-02,Cash,Yes,Standard,44.81,Returned,2.4,Very Poor
+CUST0035,Customer 35,18-25,Female,North,Toys,100.49,11.04,2024-01-31,Credit Card,Yes,Express,25.39,Cancelled,2.6,Average
+CUST0036,Customer 36,18-25,Female,South,Books,328.37,84.8,2024-11-17,Cash,No,Same Day,25.18,Completed,4.1,Excellent
+CUST0037,Customer 37,36-45,Male,North,Electronics,385.72,100.41,2023-12-23,Net Banking,No,Express,41.92,Cancelled,2.3,Average
+CUST0038,Customer 38,60+,Other,West,Electronics,475.02,134.55,2024-02-23,Debit Card,No,Standard,14.42,Completed,2.3,Excellent
+CUST0039,Customer 39,18-25,Male,Central,Toys,258.12,31.43,2024-07-11,Cash,Yes,Express,22.45,Pending,3.2,Good
+CUST0040,Customer 40,26-35,Female,North,Clothing,167.32,36.15,2024-05-17,Debit Card,Yes,Standard,12.63,Pending,4.1,Poor
+CUST0041,Customer 41,46-60,Male,East,Clothing,378.0,51.95,2024-09-22,Debit Card,Yes,Standard,23.2,Returned,4.4,Excellent
+CUST0042,Customer 42,18-25,Female,West,Books,104.31,23.33,2024-11-03,Cash,Yes,Standard,33.17,Returned,4.1,Good
+CUST0043,Customer 43,26-35,Male,East,Electronics,310.09,89.91,2024-10-31,UPI,Yes,Same Day,12.54,Pending,3.7,Excellent
+CUST0044,Customer 44,26-35,Male,West,Clothing,50.77,9.42,2024-01-03,UPI,No,Standard,10.1,Completed,1.1,Good
+CUST0045,Customer 45,26-35,Other,Central,Electronics,418.66,120.9,2024-01-24,Credit Card,Yes,Express,7.11,Completed,4.7,Poor
+CUST0046,Customer 46,60+,Female,Central,Books,93.75,11.54,2024-11-11,Credit Card,No,Same Day,15.93,Pending,2.2,Good
+CUST0047,Customer 47,60+,Male,Central,Books,344.72,55.97,2023-12-23,Debit Card,No,Same Day,23.73,Returned,4.2,Average
+CUST0048,Customer 48,46-60,Other,West,Home & Kitchen,103.79,26.8,2024-05-25,Credit Card,Yes,Standard,15.22,Returned,3.4,Average
+CUST0049,Customer 49,36-45,Other,Central,Clothing,290.24,69.36,2024-07-04,Credit Card,No,Same Day,14.56,Completed,3.7,Poor
+CUST0050,Customer 50,60+,Female,West,Books,74.34,11.07,2024-03-20,Debit Card,No,Same Day,19.29,Returned,1.9,Good
+CUST0051,Customer 51,46-60,Male,West,Clothing,435.34,123.79,2024-10-08,Net Banking,No,Standard,49.9,Completed,4.0,Poor
+CUST0052,Customer 52,18-25,Other,West,Electronics,446.99,83.95,2024-07-14,Cash,No,Same Day,39.55,Pending,3.1,Very Poor
+CUST0053,Customer 53,26-35,Female,South,Books,103.92,26.0,2024-03-22,UPI,Yes,Express,23.04,Completed,2.6,Good
+CUST0054,Customer 54,18-25,Other,North,Toys,475.8,126.22,2024-01-16,Net Banking,Yes,Express,32.71,Completed,2.3,Very Poor
+CUST0055,Customer 55,18-25,Female,South,Books,298.2,68.97,2024-10-23,Credit Card,No,Express,46.83,Pending,4.9,Average
+CUST0056,Customer 56,60+,Female,South,Toys,204.19,33.1,2024-11-25,UPI,Yes,Same Day,44.89,Completed,1.1,Good
+CUST0057,Customer 57,60+,Female,North,Books,268.42,35.03,2024-11-14,Debit Card,Yes,Express,38.8,Returned,1.3,Very Poor
+CUST0058,Customer 58,26-35,Female,North,Toys,363.27,99.71,2024-07-18,Debit Card,Yes,Same Day,44.11,Pending,1.9,Poor
+CUST0059,Customer 59,26-35,Other,North,Home & Kitchen,291.57,69.32,2024-09-05,Debit Card,No,Same Day,34.98,Pending,4.0,Very Poor
+CUST0060,Customer 60,36-45,Male,West,Home & Kitchen,426.48,58.13,2023-12-21,UPI,No,Same Day,20.27,Returned,2.5,Good
+CUST0061,Customer 61,36-45,Female,South,Books,62.52,7.33,2024-01-17,Debit Card,No,Same Day,26.13,Pending,2.8,Average
+CUST0062,Customer 62,46-60,Male,South,Toys,259.68,72.04,2024-03-27,Cash,No,Standard,7.75,Returned,3.7,Excellent
+CUST0063,Customer 63,36-45,Female,South,Books,295.39,76.38,2024-05-18,UPI,Yes,Express,47.19,Completed,4.1,Excellent
+CUST0064,Customer 64,18-25,Other,South,Electronics,495.01,146.18,2024-04-21,Debit Card,No,Express,45.9,Returned,4.3,Excellent
+CUST0065,Customer 65,60+,Other,West,Toys,97.25,17.21,2024-06-30,Cash,Yes,Standard,28.53,Returned,3.2,Average
+CUST0066,Customer 66,26-35,Other,North,Clothing,267.06,79.18,2024-11-28,Net Banking,No,Express,17.32,Completed,3.0,Good
+CUST0067,Customer 67,36-45,Female,West,Toys,167.39,40.79,2024-05-30,UPI,Yes,Express,44.54,Returned,2.3,Poor
+CUST0068,Customer 68,18-25,Male,West,Books,371.57,93.51,2024-02-01,Net Banking,Yes,Standard,9.79,Returned,3.0,Good
+CUST0069,Customer 69,18-25,Male,Central,Toys,452.93,77.11,2024-05-15,Debit Card,No,Same Day,24.18,Completed,1.2,Excellent
+CUST0070,Customer 70,26-35,Male,Central,Books,137.67,26.89,2024-11-06,Debit Card,No,Same Day,11.77,Cancelled,2.7,Good
+CUST0071,Customer 71,36-45,Female,South,Home & Kitchen,499.28,89.85,2024-07-09,Net Banking,No,Same Day,9.62,Pending,4.7,Poor
+CUST0072,Customer 72,46-60,Female,North,Clothing,415.64,99.95,2024-01-08,Net Banking,Yes,Same Day,48.42,Returned,1.0,Good
+CUST0073,Customer 73,46-60,Female,West,Toys,495.11,99.07,2024-01-29,Credit Card,No,Standard,45.8,Cancelled,1.8,Very Poor
+CUST0074,Customer 74,36-45,Male,East,Home & Kitchen,490.83,68.4,2024-11-17,Debit Card,Yes,Same Day,12.33,Returned,4.1,Average
+CUST0075,Customer 75,26-35,Male,North,Home & Kitchen,226.97,46.05,2024-04-03,Debit Card,No,Express,21.72,Completed,4.6,Very Poor
+CUST0076,Customer 76,46-60,Male,East,Electronics,465.14,49.31,2024-03-22,Debit Card,No,Express,36.44,Cancelled,4.0,Poor
+CUST0077,Customer 77,26-35,Female,North,Electronics,488.13,57.82,2024-10-07,Cash,Yes,Standard,42.82,Pending,2.8,Excellent
+CUST0078,Customer 78,36-45,Other,North,Home & Kitchen,262.57,58.82,2024-10-22,Cash,Yes,Same Day,12.05,Completed,3.4,Good
+CUST0079,Customer 79,36-45,Female,North,Clothing,56.58,11.53,2024-01-27,UPI,Yes,Express,40.14,Returned,2.7,Average
+CUST0080,Customer 80,46-60,Male,West,Home & Kitchen,468.94,98.08,2024-03-28,Credit Card,Yes,Standard,9.92,Returned,2.3,Very Poor
+CUST0081,Customer 81,26-35,Male,South,Books,442.53,105.2,2024-02-24,Debit Card,Yes,Express,16.62,Pending,4.5,Excellent
+CUST0082,Customer 82,46-60,Other,West,Home & Kitchen,358.9,78.66,2024-03-08,Net Banking,No,Standard,20.72,Cancelled,2.5,Poor
+CUST0083,Customer 83,26-35,Male,West,Toys,417.06,52.86,2024-01-11,Debit Card,Yes,Standard,8.08,Completed,2.3,Very Poor
+CUST0084,Customer 84,36-45,Other,East,Toys,238.31,30.54,2024-02-06,Cash,Yes,Same Day,34.27,Completed,3.0,Very Poor
+CUST0085,Customer 85,26-35,Male,West,Toys,298.83,81.83,2024-09-27,Cash,Yes,Same Day,17.2,Cancelled,1.4,Excellent
+CUST0086,Customer 86,26-35,Female,South,Clothing,495.07,113.18,2023-12-19,Cash,No,Same Day,14.54,Completed,4.8,Poor
+CUST0087,Customer 87,60+,Other,Central,Home & Kitchen,169.61,43.0,2024-11-14,Debit Card,Yes,Standard,9.84,Pending,3.6,Average
+CUST0088,Customer 88,18-25,Other,East,Clothing,408.77,96.56,2024-02-24,Cash,No,Express,11.85,Pending,1.1,Very Poor
+CUST0089,Customer 89,46-60,Female,Central,Home & Kitchen,244.03,24.61,2024-01-30,Cash,Yes,Express,16.63,Pending,4.9,Poor
+CUST0090,Customer 90,18-25,Other,East,Home & Kitchen,483.55,121.05,2024-12-08,Cash,Yes,Standard,32.8,Returned,1.2,Poor
+CUST0091,Customer 91,46-60,Male,South,Toys,418.33,102.26,2024-01-14,Credit Card,Yes,Standard,7.02,Returned,1.0,Excellent
+CUST0092,Customer 92,26-35,Male,West,Clothing,324.16,81.43,2024-12-15,Net Banking,No,Standard,12.44,Cancelled,1.1,Very Poor
+CUST0093,Customer 93,60+,Other,North,Home & Kitchen,77.25,11.98,2024-09-14,Net Banking,Yes,Express,31.68,Cancelled,4.6,Very Poor
+CUST0094,Customer 94,18-25,Male,Central,Books,381.88,101.22,2024-09-02,Cash,Yes,Same Day,9.23,Completed,2.4,Poor
+CUST0095,Customer 95,36-45,Other,West,Electronics,157.58,18.18,2024-02-27,Cash,Yes,Standard,16.39,Cancelled,3.5,Excellent
+CUST0096,Customer 96,60+,Male,Central,Clothing,220.39,43.53,2024-07-22,UPI,Yes,Standard,13.0,Pending,3.2,Good
+CUST0097,Customer 97,18-25,Female,North,Books,174.36,46.35,2024-03-18,UPI,Yes,Same Day,33.02,Completed,1.0,Good
+CUST0098,Customer 98,60+,Male,West,Home & Kitchen,272.11,49.02,2024-10-13,Net Banking,No,Same Day,27.4,Completed,3.9,Very Poor
+CUST0099,Customer 99,36-45,Female,South,Electronics,185.54,26.18,2024-07-13,Credit Card,No,Express,11.71,Completed,3.8,Excellent
+CUST0100,Customer 100,18-25,Male,South,Toys,298.7,73.78,2023-12-30,Debit Card,No,Standard,33.41,Completed,2.2,Good
+CUST0101,Customer 101,18-25,Female,South,Clothing,298.85,58.93,2024-04-10,Debit Card,No,Express,33.21,Returned,4.6,Poor
+CUST0102,Customer 102,46-60,Female,East,Toys,55.94,16.42,2024-01-24,Credit Card,No,Standard,10.97,Pending,4.8,Good
+CUST0103,Customer 103,26-35,Other,West,Books,272.01,29.15,2024-11-01,Net Banking,No,Standard,25.54,Returned,3.4,Poor
+CUST0104,Customer 104,26-35,Other,West,Home & Kitchen,406.8,96.94,2024-07-23,UPI,Yes,Same Day,26.79,Pending,4.1,Good
+CUST0105,Customer 105,60+,Other,East,Electronics,439.34,122.64,2024-05-23,Debit Card,Yes,Express,46.9,Completed,2.8,Excellent
+CUST0106,Customer 106,46-60,Female,East,Home & Kitchen,286.64,42.85,2024-06-03,Net Banking,Yes,Same Day,23.65,Pending,2.6,Average
+CUST0107,Customer 107,60+,Other,Central,Toys,413.38,46.32,2024-02-15,Net Banking,Yes,Standard,30.44,Pending,1.3,Average
+CUST0108,Customer 108,60+,Other,South,Home & Kitchen,179.69,38.51,2024-02-29,Cash,No,Express,15.92,Pending,3.7,Very Poor
+CUST0109,Customer 109,18-25,Other,East,Home & Kitchen,164.22,20.25,2024-09-22,Debit Card,Yes,Express,16.27,Completed,2.3,Good
+CUST0110,Customer 110,18-25,Other,East,Home & Kitchen,173.95,29.51,2024-08-13,Cash,Yes,Express,43.79,Completed,3.6,Very Poor
+CUST0111,Customer 111,60+,Male,Central,Home & Kitchen,392.06,43.59,2024-01-05,Debit Card,Yes,Express,9.58,Returned,2.1,Excellent
+CUST0112,Customer 112,46-60,Female,East,Books,82.91,24.35,2024-05-03,Cash,Yes,Same Day,46.49,Pending,3.7,Excellent
+CUST0113,Customer 113,36-45,Female,South,Home & Kitchen,213.71,44.13,2024-01-01,Debit Card,No,Express,13.2,Cancelled,3.2,Poor
+CUST0114,Customer 114,26-35,Female,North,Toys,215.37,27.37,2024-01-22,Debit Card,Yes,Express,15.4,Completed,3.3,Excellent
+CUST0115,Customer 115,60+,Male,North,Toys,133.59,38.24,2024-08-10,UPI,Yes,Standard,49.47,Returned,3.9,Very Poor
+CUST0116,Customer 116,26-35,Other,East,Books,115.97,30.9,2023-12-31,Cash,No,Express,42.38,Cancelled,4.8,Excellent
+CUST0117,Customer 117,26-35,Female,Central,Electronics,348.19,87.13,2024-04-29,Debit Card,No,Standard,32.13,Cancelled,3.5,Excellent
+CUST0118,Customer 118,26-35,Other,North,Home & Kitchen,424.64,76.56,2024-02-09,Debit Card,Yes,Same Day,6.79,Completed,1.0,Good
+CUST0119,Customer 119,60+,Female,Central,Clothing,128.42,14.63,2024-05-06,UPI,No,Same Day,38.49,Completed,4.7,Poor
+CUST0120,Customer 120,46-60,Female,Central,Electronics,64.06,9.89,2024-04-29,Net Banking,No,Same Day,23.2,Returned,4.1,Excellent
+CUST0121,Customer 121,46-60,Other,West,Clothing,256.03,69.93,2023-12-25,Net Banking,Yes,Same Day,35.36,Returned,3.7,Excellent
+CUST0122,Customer 122,36-45,Male,West,Clothing,308.08,58.8,2024-01-15,UPI,Yes,Express,26.54,Returned,1.1,Poor
+CUST0123,Customer 123,36-45,Female,East,Home & Kitchen,92.68,24.75,2023-12-30,Cash,Yes,Same Day,42.24,Returned,4.7,Good
+CUST0124,Customer 124,18-25,Male,East,Clothing,404.91,51.77,2024-03-14,Credit Card,No,Standard,32.61,Pending,1.3,Good
+CUST0125,Customer 125,60+,Female,Central,Clothing,186.86,49.49,2023-12-18,Debit Card,Yes,Same Day,35.99,Completed,1.6,Average
+CUST0126,Customer 126,46-60,Other,West,Toys,305.1,37.2,2024-01-17,Cash,Yes,Standard,39.82,Pending,3.7,Very Poor
+CUST0127,Customer 127,36-45,Female,West,Electronics,66.24,12.25,2024-06-11,Debit Card,No,Same Day,43.37,Returned,4.1,Good
+CUST0128,Customer 128,60+,Male,East,Toys,204.91,57.31,2024-10-23,UPI,Yes,Express,32.15,Cancelled,2.5,Good
+CUST0129,Customer 129,36-45,Male,East,Clothing,78.01,21.66,2024-04-19,Cash,No,Express,20.22,Returned,1.6,Average
+CUST0130,Customer 130,18-25,Female,East,Home & Kitchen,147.57,32.23,2023-12-31,Net Banking,Yes,Standard,13.65,Cancelled,2.1,Very Poor
+CUST0131,Customer 131,18-25,Female,North,Clothing,109.17,25.85,2024-10-22,Net Banking,Yes,Same Day,19.97,Pending,4.3,Excellent
+CUST0132,Customer 132,26-35,Male,North,Toys,425.56,105.37,2024-11-26,Debit Card,Yes,Standard,48.98,Returned,2.1,Good
+CUST0133,Customer 133,46-60,Male,North,Books,240.0,25.17,2024-09-23,Cash,Yes,Express,13.61,Cancelled,3.2,Good
+CUST0134,Customer 134,18-25,Male,South,Books,114.12,14.58,2024-10-17,Cash,Yes,Same Day,27.86,Returned,2.5,Average
+CUST0135,Customer 135,46-60,Female,East,Home & Kitchen,453.21,103.31,2024-09-30,Cash,No,Standard,15.43,Returned,3.2,Poor
+CUST0136,Customer 136,46-60,Male,Central,Toys,279.02,41.18,2024-12-17,Debit Card,No,Same Day,35.16,Cancelled,1.8,Poor
+CUST0137,Customer 137,26-35,Male,East,Home & Kitchen,51.32,11.33,2024-09-21,Credit Card,Yes,Express,34.56,Pending,1.5,Average
+CUST0138,Customer 138,36-45,Female,North,Clothing,479.16,62.69,2024-01-10,Credit Card,Yes,Express,26.99,Pending,3.5,Average
+CUST0139,Customer 139,60+,Male,East,Electronics,126.34,23.79,2024-04-12,Debit Card,No,Same Day,39.23,Returned,1.1,Poor
+CUST0140,Customer 140,18-25,Female,South,Home & Kitchen,367.76,56.99,2024-09-04,Debit Card,Yes,Same Day,44.86,Pending,4.6,Excellent
+CUST0141,Customer 141,26-35,Other,North,Home & Kitchen,187.76,24.58,2024-04-24,Cash,No,Express,43.21,Returned,3.3,Poor
+CUST0142,Customer 142,18-25,Female,East,Clothing,166.3,43.59,2024-04-15,Cash,No,Standard,11.17,Pending,3.0,Average
+CUST0143,Customer 143,26-35,Male,South,Electronics,386.29,92.06,2024-05-31,Debit Card,Yes,Express,5.08,Cancelled,1.4,Poor
+CUST0144,Customer 144,46-60,Other,East,Books,195.93,54.58,2024-10-26,Credit Card,Yes,Standard,33.5,Cancelled,2.2,Excellent
+CUST0145,Customer 145,36-45,Male,North,Books,199.2,27.79,2024-03-19,Net Banking,Yes,Standard,33.68,Returned,4.6,Good
+CUST0146,Customer 146,18-25,Male,South,Books,319.2,38.87,2024-05-29,Cash,Yes,Express,44.66,Pending,2.6,Good
+CUST0147,Customer 147,46-60,Male,Central,Books,248.18,44.5,2024-03-24,Cash,Yes,Express,46.98,Returned,1.4,Good
+CUST0148,Customer 148,36-45,Other,East,Toys,93.78,25.91,2024-04-09,Cash,No,Express,46.33,Pending,4.0,Poor
+CUST0149,Customer 149,18-25,Female,West,Home & Kitchen,136.27,19.19,2024-12-10,Debit Card,Yes,Same Day,12.76,Returned,1.6,Excellent
+CUST0150,Customer 150,26-35,Male,Central,Electronics,256.53,68.63,2024-03-04,UPI,No,Standard,8.27,Pending,3.0,Good
+CUST0151,Customer 151,46-60,Other,South,Electronics,403.09,96.01,2024-09-25,Debit Card,Yes,Same Day,18.64,Returned,1.9,Very Poor
+CUST0152,Customer 152,46-60,Male,West,Clothing,211.02,51.22,2024-08-27,Cash,No,Express,21.02,Cancelled,3.5,Poor
+CUST0153,Customer 153,36-45,Female,Central,Books,56.18,6.33,2024-08-09,Cash,Yes,Standard,48.02,Returned,4.1,Average
+CUST0154,Customer 154,26-35,Female,Central,Clothing,161.44,24.92,2024-12-16,Debit Card,No,Standard,39.82,Cancelled,2.8,Poor
+CUST0155,Customer 155,18-25,Male,North,Clothing,484.45,76.78,2024-01-31,Debit Card,Yes,Standard,39.33,Returned,3.5,Average
+CUST0156,Customer 156,60+,Male,North,Home & Kitchen,200.99,58.18,2024-02-04,Cash,Yes,Standard,12.74,Pending,2.4,Poor
+CUST0157,Customer 157,18-25,Female,East,Clothing,286.87,66.09,2023-12-26,Credit Card,No,Same Day,27.5,Cancelled,2.9,Average
+CUST0158,Customer 158,46-60,Female,South,Toys,490.51,131.97,2024-05-04,Cash,No,Same Day,19.21,Completed,4.0,Good
+CUST0159,Customer 159,60+,Other,South,Home & Kitchen,197.36,54.25,2024-10-28,Net Banking,Yes,Same Day,13.67,Cancelled,4.0,Excellent
+CUST0160,Customer 160,26-35,Other,North,Clothing,60.51,10.86,2024-04-09,Net Banking,Yes,Standard,30.05,Cancelled,3.7,Poor
+CUST0161,Customer 161,60+,Male,South,Electronics,293.22,63.12,2024-06-07,Credit Card,Yes,Same Day,35.24,Pending,1.7,Excellent
+CUST0162,Customer 162,26-35,Other,North,Clothing,269.08,27.48,2024-11-13,UPI,No,Express,46.54,Pending,1.2,Poor
+CUST0163,Customer 163,18-25,Other,Central,Clothing,321.45,34.78,2024-05-04,Net Banking,No,Standard,29.9,Completed,2.9,Average
+CUST0164,Customer 164,60+,Male,North,Electronics,374.04,89.21,2024-02-01,Debit Card,No,Same Day,43.7,Cancelled,3.9,Very Poor
+CUST0165,Customer 165,60+,Male,East,Books,133.83,33.93,2024-09-23,Credit Card,No,Express,26.86,Returned,4.7,Poor
+CUST0166,Customer 166,18-25,Other,East,Home & Kitchen,267.26,67.43,2024-01-25,Debit Card,Yes,Standard,18.19,Cancelled,4.2,Excellent
+CUST0167,Customer 167,36-45,Male,South,Books,424.85,90.53,2024-07-16,Credit Card,No,Express,32.54,Completed,1.8,Excellent
+CUST0168,Customer 168,46-60,Other,Central,Home & Kitchen,102.18,11.38,2024-07-09,Debit Card,Yes,Same Day,27.84,Cancelled,4.1,Good
+CUST0169,Customer 169,60+,Other,West,Toys,427.2,101.54,2024-03-08,Credit Card,No,Standard,32.55,Completed,3.5,Good
+CUST0170,Customer 170,60+,Other,Central,Clothing,184.58,20.69,2024-05-17,Net Banking,Yes,Standard,28.43,Pending,1.6,Good
+CUST0171,Customer 171,36-45,Male,West,Books,96.69,18.71,2024-01-05,Debit Card,Yes,Same Day,28.24,Pending,1.9,Good
+CUST0172,Customer 172,18-25,Female,Central,Electronics,224.47,54.07,2024-09-03,Net Banking,Yes,Express,37.77,Returned,2.9,Poor
+CUST0173,Customer 173,46-60,Other,Central,Home & Kitchen,325.12,53.89,2024-08-24,Debit Card,Yes,Same Day,22.28,Completed,1.0,Good
+CUST0174,Customer 174,18-25,Male,Central,Toys,291.83,39.7,2024-12-14,Credit Card,No,Express,43.28,Cancelled,2.6,Poor
+CUST0175,Customer 175,36-45,Female,West,Home & Kitchen,275.81,34.43,2024-07-02,Net Banking,No,Standard,11.82,Completed,1.2,Very Poor
+CUST0176,Customer 176,36-45,Other,East,Books,188.97,28.23,2024-08-09,UPI,Yes,Same Day,43.21,Completed,3.7,Good
+CUST0177,Customer 177,26-35,Male,East,Home & Kitchen,331.38,70.64,2024-08-09,Credit Card,Yes,Express,27.27,Cancelled,1.6,Good
+CUST0178,Customer 178,46-60,Male,South,Toys,418.6,72.41,2024-01-16,Cash,Yes,Express,7.13,Completed,5.0,Good
+CUST0179,Customer 179,36-45,Female,West,Books,186.45,54.38,2024-06-14,UPI,Yes,Express,32.65,Returned,1.6,Very Poor
+CUST0180,Customer 180,46-60,Female,South,Clothing,481.58,118.76,2024-10-27,Credit Card,No,Standard,8.87,Cancelled,4.5,Average
+CUST0181,Customer 181,26-35,Male,South,Toys,421.31,74.54,2024-03-08,Credit Card,Yes,Standard,22.25,Cancelled,3.8,Good
+CUST0182,Customer 182,46-60,Female,East,Home & Kitchen,131.11,34.84,2024-09-11,UPI,No,Standard,16.23,Cancelled,3.8,Very Poor
+CUST0183,Customer 183,46-60,Female,East,Toys,308.47,45.12,2024-01-14,Cash,Yes,Standard,7.2,Pending,1.5,Very Poor
+CUST0184,Customer 184,46-60,Male,Central,Electronics,291.88,64.95,2024-01-15,Debit Card,No,Express,34.69,Pending,2.2,Excellent
+CUST0185,Customer 185,26-35,Male,West,Electronics,405.53,93.56,2024-01-26,Debit Card,Yes,Express,9.14,Pending,4.0,Good
+CUST0186,Customer 186,46-60,Female,West,Home & Kitchen,404.38,97.83,2024-04-27,Cash,No,Express,28.77,Cancelled,4.7,Poor
+CUST0187,Customer 187,18-25,Other,North,Books,364.54,75.45,2024-04-21,Net Banking,No,Standard,31.67,Pending,3.6,Poor
+CUST0188,Customer 188,18-25,Other,West,Toys,441.38,53.19,2024-03-07,Credit Card,Yes,Same Day,29.67,Returned,4.9,Very Poor
+CUST0189,Customer 189,46-60,Female,East,Electronics,206.66,59.84,2024-10-23,Cash,Yes,Standard,24.04,Returned,1.9,Poor
+CUST0190,Customer 190,18-25,Female,South,Books,317.89,91.39,2024-12-09,UPI,Yes,Express,12.85,Pending,3.1,Average
+CUST0191,Customer 191,36-45,Other,East,Home & Kitchen,482.3,81.13,2024-10-16,UPI,Yes,Express,6.62,Returned,1.5,Very Poor
+CUST0192,Customer 192,18-25,Female,North,Clothing,319.45,49.69,2024-01-29,Net Banking,Yes,Same Day,37.53,Returned,4.9,Average
+CUST0193,Customer 193,18-25,Other,South,Books,347.25,48.13,2024-10-23,Credit Card,Yes,Standard,5.85,Returned,4.8,Good
+CUST0194,Customer 194,36-45,Other,North,Home & Kitchen,247.13,72.05,2024-03-11,Credit Card,No,Standard,46.85,Completed,1.6,Average
+CUST0195,Customer 195,36-45,Male,East,Electronics,194.04,52.19,2024-02-24,Cash,No,Express,16.37,Pending,4.4,Good
+CUST0196,Customer 196,18-25,Male,South,Home & Kitchen,128.42,22.64,2024-05-10,Credit Card,No,Standard,48.23,Completed,1.2,Excellent
+CUST0197,Customer 197,36-45,Other,South,Electronics,477.63,104.17,2024-12-08,UPI,No,Express,41.21,Pending,3.3,Excellent
+CUST0198,Customer 198,46-60,Other,Central,Toys,60.91,7.43,2024-01-21,Cash,Yes,Express,11.03,Returned,5.0,Average
+CUST0199,Customer 199,26-35,Male,East,Home & Kitchen,271.78,35.1,2024-02-16,Debit Card,No,Standard,24.22,Returned,2.9,Poor
+CUST0200,Customer 200,46-60,Female,South,Home & Kitchen,339.03,58.01,2024-03-08,Debit Card,No,Same Day,8.16,Pending,3.1,Very Poor
+CUST0201,Customer 201,18-25,Female,West,Toys,128.27,31.25,2024-08-06,Net Banking,Yes,Same Day,35.15,Pending,3.4,Average
+CUST0202,Customer 202,36-45,Male,Central,Home & Kitchen,226.47,66.14,2024-08-19,Cash,Yes,Same Day,32.01,Completed,1.7,Average
+CUST0203,Customer 203,36-45,Female,South,Home & Kitchen,232.25,52.33,2024-08-20,Credit Card,No,Same Day,5.74,Cancelled,4.4,Very Poor
+CUST0204,Customer 204,18-25,Male,East,Electronics,167.75,22.5,2024-02-18,Credit Card,Yes,Standard,48.59,Completed,4.3,Very Poor
+CUST0205,Customer 205,46-60,Female,North,Home & Kitchen,390.48,111.84,2024-10-25,Net Banking,Yes,Same Day,26.27,Returned,4.1,Average
+CUST0206,Customer 206,18-25,Other,South,Toys,375.41,49.79,2024-03-27,Debit Card,Yes,Express,35.74,Completed,1.7,Very Poor
+CUST0207,Customer 207,26-35,Male,East,Books,188.3,18.95,2024-09-24,Cash,No,Same Day,22.33,Returned,3.3,Average
+CUST0208,Customer 208,18-25,Other,North,Clothing,68.72,13.4,2024-02-09,Cash,No,Standard,48.56,Pending,2.6,Good
+CUST0209,Customer 209,60+,Other,East,Toys,358.72,44.67,2024-05-18,UPI,Yes,Standard,13.55,Cancelled,1.9,Good
+CUST0210,Customer 210,36-45,Other,West,Home & Kitchen,210.39,56.22,2024-07-17,Net Banking,No,Express,37.02,Cancelled,3.1,Excellent
+CUST0211,Customer 211,26-35,Male,South,Toys,246.98,59.78,2024-10-08,Cash,No,Express,13.88,Completed,2.7,Poor
+CUST0212,Customer 212,36-45,Female,Central,Electronics,219.38,40.01,2024-11-19,UPI,No,Standard,39.54,Cancelled,3.8,Excellent
+CUST0213,Customer 213,36-45,Female,North,Books,80.52,8.18,2024-06-13,UPI,No,Express,30.78,Returned,1.2,Average
+CUST0214,Customer 214,46-60,Other,East,Toys,132.94,27.52,2024-06-05,UPI,Yes,Standard,33.46,Pending,3.1,Very Poor
+CUST0215,Customer 215,46-60,Male,Central,Home & Kitchen,416.21,50.71,2024-03-27,UPI,No,Same Day,15.65,Returned,3.4,Average
+CUST0216,Customer 216,46-60,Male,North,Toys,492.14,50.13,2024-06-05,UPI,Yes,Express,32.19,Completed,1.0,Very Poor
+CUST0217,Customer 217,26-35,Male,West,Electronics,460.96,103.29,2024-07-14,Cash,No,Same Day,12.84,Returned,3.1,Good
+CUST0218,Customer 218,60+,Female,West,Books,87.27,21.18,2023-12-19,UPI,Yes,Standard,25.31,Returned,4.9,Average
+CUST0219,Customer 219,26-35,Other,South,Books,398.86,50.64,2024-04-26,Credit Card,No,Standard,41.34,Completed,1.0,Good
+CUST0220,Customer 220,18-25,Male,North,Home & Kitchen,93.9,27.6,2024-08-22,UPI,No,Standard,37.55,Completed,2.2,Poor
+CUST0221,Customer 221,26-35,Other,East,Home & Kitchen,167.63,35.16,2024-01-13,Net Banking,Yes,Standard,8.83,Returned,2.6,Good
+CUST0222,Customer 222,26-35,Male,Central,Electronics,465.87,57.0,2024-10-02,Debit Card,No,Same Day,18.08,Completed,4.9,Good
+CUST0223,Customer 223,26-35,Male,Central,Toys,135.5,36.76,2023-12-25,Credit Card,Yes,Express,31.74,Cancelled,4.8,Poor
+CUST0224,Customer 224,60+,Other,East,Home & Kitchen,58.41,16.13,2024-10-17,Debit Card,Yes,Express,41.67,Returned,1.5,Very Poor
+CUST0225,Customer 225,60+,Female,Central,Books,152.19,21.74,2024-10-20,Debit Card,Yes,Express,6.75,Returned,4.9,Very Poor
+CUST0226,Customer 226,60+,Male,West,Toys,393.14,58.79,2024-07-29,Debit Card,Yes,Same Day,24.26,Cancelled,2.0,Poor
+CUST0227,Customer 227,26-35,Other,West,Books,435.44,116.91,2024-10-31,Net Banking,No,Same Day,45.12,Cancelled,1.3,Poor
+CUST0228,Customer 228,46-60,Female,South,Books,482.72,61.99,2024-10-24,Debit Card,No,Standard,42.08,Completed,1.4,Average
+CUST0229,Customer 229,36-45,Female,Central,Home & Kitchen,411.49,66.62,2024-04-25,UPI,No,Same Day,49.43,Completed,1.0,Average
+CUST0230,Customer 230,46-60,Male,North,Toys,210.39,47.74,2023-12-20,Debit Card,No,Express,6.31,Cancelled,2.2,Excellent
+CUST0231,Customer 231,26-35,Other,North,Electronics,154.47,24.84,2024-07-21,UPI,No,Standard,17.9,Returned,4.5,Poor
+CUST0232,Customer 232,60+,Female,North,Books,290.43,57.9,2024-10-10,Debit Card,No,Standard,31.67,Pending,2.2,Average
+CUST0233,Customer 233,46-60,Other,East,Toys,408.8,54.6,2024-10-14,Credit Card,Yes,Express,26.96,Returned,2.6,Excellent
+CUST0234,Customer 234,36-45,Male,North,Clothing,167.6,29.76,2024-03-30,UPI,Yes,Express,36.55,Cancelled,1.7,Very Poor
+CUST0235,Customer 235,60+,Other,East,Home & Kitchen,69.61,20.74,2024-11-06,UPI,Yes,Same Day,18.44,Completed,1.4,Average
+CUST0236,Customer 236,36-45,Male,South,Electronics,492.28,62.89,2024-08-05,Cash,Yes,Standard,38.43,Cancelled,1.7,Very Poor
+CUST0237,Customer 237,60+,Other,East,Electronics,473.84,66.87,2024-11-23,UPI,No,Same Day,46.03,Cancelled,3.4,Poor
+CUST0238,Customer 238,60+,Female,North,Electronics,299.18,43.59,2024-09-21,Cash,Yes,Same Day,40.16,Pending,1.2,Poor
+CUST0239,Customer 239,46-60,Female,North,Electronics,497.87,117.91,2024-07-29,Credit Card,Yes,Same Day,23.33,Completed,4.7,Very Poor
+CUST0240,Customer 240,36-45,Female,North,Home & Kitchen,300.41,89.45,2024-09-22,Net Banking,Yes,Same Day,34.58,Returned,4.2,Excellent
+CUST0241,Customer 241,26-35,Female,West,Books,259.89,38.48,2024-09-08,UPI,No,Standard,37.63,Returned,3.2,Very Poor
+CUST0242,Customer 242,46-60,Other,South,Books,449.52,98.6,2024-05-09,UPI,No,Same Day,37.9,Returned,1.9,Good
+CUST0243,Customer 243,18-25,Female,West,Electronics,416.47,102.94,2024-03-03,UPI,No,Same Day,12.08,Pending,4.1,Excellent
+CUST0244,Customer 244,36-45,Male,North,Clothing,459.63,122.14,2024-09-10,Credit Card,Yes,Standard,47.21,Pending,2.3,Good
+CUST0245,Customer 245,26-35,Other,East,Clothing,282.36,32.33,2024-12-05,Net Banking,No,Express,10.71,Cancelled,4.2,Very Poor
+CUST0246,Customer 246,36-45,Female,Central,Toys,467.39,78.07,2024-04-23,Net Banking,No,Standard,25.08,Returned,4.3,Good
+CUST0247,Customer 247,26-35,Male,South,Toys,158.02,18.85,2024-06-18,Debit Card,No,Same Day,20.72,Completed,3.8,Poor
+CUST0248,Customer 248,36-45,Other,South,Toys,191.68,39.07,2024-02-10,UPI,No,Express,46.88,Cancelled,2.0,Very Poor
+CUST0249,Customer 249,18-25,Female,East,Clothing,172.78,44.45,2024-12-02,Credit Card,No,Express,14.22,Cancelled,1.3,Excellent
+CUST0250,Customer 250,26-35,Female,Central,Books,385.13,89.5,2024-09-19,Cash,No,Same Day,17.73,Cancelled,5.0,Excellent
+CUST0251,Customer 251,36-45,Female,North,Electronics,351.7,75.16,2024-04-04,Cash,No,Same Day,21.58,Completed,3.6,Poor
+CUST0252,Customer 252,60+,Other,East,Home & Kitchen,239.76,66.27,2024-01-03,UPI,Yes,Express,27.87,Returned,2.9,Excellent
+CUST0253,Customer 253,18-25,Other,West,Electronics,60.93,12.99,2024-04-08,Net Banking,Yes,Same Day,23.6,Pending,1.0,Good
+CUST0254,Customer 254,36-45,Female,East,Clothing,84.07,10.49,2024-07-14,Cash,No,Standard,28.76,Returned,4.1,Poor
+CUST0255,Customer 255,26-35,Female,East,Home & Kitchen,458.6,129.94,2024-04-19,Cash,No,Express,36.92,Pending,4.4,Poor
+CUST0256,Customer 256,18-25,Other,West,Electronics,231.12,29.25,2024-08-13,Credit Card,No,Express,8.59,Pending,1.1,Excellent
+CUST0257,Customer 257,26-35,Female,West,Clothing,187.65,21.5,2024-04-27,Credit Card,Yes,Express,33.75,Cancelled,1.5,Excellent
+CUST0258,Customer 258,26-35,Female,East,Clothing,66.3,13.06,2024-04-16,UPI,No,Express,17.43,Cancelled,1.2,Average
+CUST0259,Customer 259,36-45,Female,North,Toys,201.18,25.43,2024-10-18,Credit Card,Yes,Standard,17.13,Pending,3.2,Very Poor
+CUST0260,Customer 260,26-35,Female,East,Clothing,298.09,67.49,2024-01-06,Net Banking,No,Standard,30.92,Returned,3.5,Poor
+CUST0261,Customer 261,60+,Female,West,Home & Kitchen,477.81,133.09,2024-10-06,Credit Card,Yes,Express,24.27,Returned,3.2,Very Poor
+CUST0262,Customer 262,18-25,Other,North,Books,92.83,21.91,2024-08-26,Net Banking,No,Express,17.78,Completed,4.7,Excellent
+CUST0263,Customer 263,46-60,Male,North,Electronics,301.01,84.06,2024-01-09,UPI,Yes,Standard,31.73,Completed,4.7,Average
+CUST0264,Customer 264,36-45,Other,Central,Toys,107.09,12.21,2024-03-27,Credit Card,No,Express,27.04,Returned,4.4,Excellent
+CUST0265,Customer 265,36-45,Male,North,Toys,132.12,29.48,2023-12-22,Net Banking,Yes,Standard,30.79,Completed,4.9,Very Poor
+CUST0266,Customer 266,36-45,Other,East,Home & Kitchen,168.47,42.81,2024-04-16,Net Banking,No,Express,38.51,Returned,2.9,Poor
+CUST0267,Customer 267,46-60,Other,East,Home & Kitchen,308.59,31.99,2024-09-03,UPI,Yes,Standard,31.78,Returned,4.3,Excellent
+CUST0268,Customer 268,36-45,Female,Central,Books,263.3,57.73,2024-12-04,UPI,No,Same Day,6.94,Pending,2.3,Excellent
+CUST0269,Customer 269,36-45,Male,West,Home & Kitchen,310.67,56.99,2024-01-14,Net Banking,No,Express,42.65,Cancelled,2.1,Average
+CUST0270,Customer 270,60+,Female,West,Clothing,349.51,59.4,2024-06-12,Debit Card,Yes,Standard,40.79,Completed,4.2,Excellent
+CUST0271,Customer 271,60+,Other,North,Electronics,69.71,20.91,2024-09-22,Credit Card,Yes,Standard,6.36,Cancelled,3.9,Average
+CUST0272,Customer 272,60+,Female,South,Home & Kitchen,470.55,54.84,2024-07-04,Cash,No,Express,35.46,Completed,4.0,Good
+CUST0273,Customer 273,46-60,Male,South,Toys,391.71,57.58,2024-02-20,UPI,Yes,Express,40.78,Cancelled,1.4,Average
+CUST0274,Customer 274,60+,Male,East,Clothing,302.19,44.1,2024-04-16,Debit Card,No,Express,17.51,Completed,1.1,Very Poor
+CUST0275,Customer 275,26-35,Male,North,Toys,240.25,54.01,2024-07-24,Debit Card,No,Same Day,33.16,Cancelled,4.0,Excellent
+CUST0276,Customer 276,36-45,Other,South,Books,472.85,99.53,2024-08-27,UPI,No,Standard,30.54,Completed,4.1,Poor
+CUST0277,Customer 277,26-35,Other,Central,Home & Kitchen,357.5,95.64,2024-05-07,Net Banking,Yes,Same Day,29.7,Completed,1.8,Average
+CUST0278,Customer 278,18-25,Male,Central,Books,124.45,16.11,2024-08-24,Debit Card,Yes,Standard,36.21,Cancelled,3.7,Poor
+CUST0279,Customer 279,26-35,Male,East,Books,445.22,82.07,2024-09-07,Debit Card,No,Same Day,29.5,Completed,1.6,Excellent
+CUST0280,Customer 280,36-45,Male,West,Toys,120.15,15.14,2024-01-10,Net Banking,No,Express,26.78,Returned,2.2,Very Poor
+CUST0281,Customer 281,36-45,Female,West,Toys,213.43,42.51,2024-11-01,UPI,Yes,Same Day,7.14,Cancelled,3.8,Poor
+CUST0282,Customer 282,60+,Male,North,Electronics,278.46,49.29,2024-12-13,UPI,Yes,Express,22.19,Cancelled,4.3,Excellent
+CUST0283,Customer 283,36-45,Male,East,Toys,131.15,20.56,2024-11-29,Net Banking,Yes,Standard,28.68,Returned,2.0,Average
+CUST0284,Customer 284,46-60,Male,West,Toys,228.26,51.1,2024-02-16,Cash,No,Same Day,5.01,Pending,2.7,Very Poor
+CUST0285,Customer 285,18-25,Female,Central,Home & Kitchen,332.44,89.96,2024-04-18,Cash,Yes,Standard,14.74,Cancelled,4.9,Excellent
+CUST0286,Customer 286,60+,Female,West,Electronics,248.05,30.49,2024-02-24,Cash,No,Express,24.51,Completed,1.8,Very Poor
+CUST0287,Customer 287,60+,Male,North,Toys,215.69,27.03,2024-09-24,Credit Card,Yes,Standard,6.62,Completed,1.7,Excellent
+CUST0288,Customer 288,46-60,Other,South,Home & Kitchen,460.94,110.97,2024-02-06,Net Banking,Yes,Same Day,22.96,Cancelled,2.0,Poor
+CUST0289,Customer 289,36-45,Female,North,Electronics,482.8,115.45,2024-10-26,Cash,Yes,Standard,25.95,Completed,4.8,Average
+CUST0290,Customer 290,18-25,Female,West,Home & Kitchen,256.63,75.81,2024-05-15,Cash,No,Same Day,8.26,Returned,2.9,Very Poor
+CUST0291,Customer 291,36-45,Female,Central,Clothing,247.81,41.26,2024-08-11,UPI,No,Same Day,15.58,Cancelled,4.5,Average
+CUST0292,Customer 292,36-45,Female,East,Electronics,97.05,11.59,2024-08-24,Debit Card,No,Same Day,25.97,Cancelled,1.6,Excellent
+CUST0293,Customer 293,46-60,Female,North,Books,66.67,19.58,2024-03-22,Debit Card,No,Express,15.59,Pending,4.5,Average
+CUST0294,Customer 294,18-25,Female,West,Books,86.03,8.97,2024-07-11,Net Banking,No,Standard,34.94,Completed,5.0,Very Poor
+CUST0295,Customer 295,18-25,Other,Central,Home & Kitchen,388.26,97.96,2024-10-18,Cash,Yes,Express,21.24,Pending,3.3,Very Poor
+CUST0296,Customer 296,36-45,Male,South,Books,442.25,120.43,2024-01-18,Credit Card,Yes,Express,23.62,Pending,1.9,Excellent
+CUST0297,Customer 297,26-35,Female,West,Toys,117.23,20.37,2024-02-15,Cash,Yes,Same Day,18.78,Cancelled,1.4,Average
+CUST0298,Customer 298,26-35,Male,Central,Electronics,69.74,17.53,2024-03-30,Net Banking,No,Same Day,36.19,Returned,1.8,Average
+CUST0299,Customer 299,46-60,Female,East,Clothing,169.4,44.2,2024-10-27,Cash,No,Standard,26.77,Cancelled,1.5,Very Poor
+CUST0300,Customer 300,26-35,Male,North,Home & Kitchen,215.47,60.09,2024-07-24,UPI,Yes,Standard,16.5,Completed,3.5,Very Poor
